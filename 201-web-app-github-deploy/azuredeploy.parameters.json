@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "value": "GEN-UNIQUE"
+      "value": "GEN-UNIQUE-SHRU"
     },
     "hostingPlanName": {
-      "value": "GEN-UNIQUE"
+      "value": "GEN-UNIQUE-SHRU"
     }
   }
 }
